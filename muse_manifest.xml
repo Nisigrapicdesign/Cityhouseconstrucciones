@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597100647204">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597101326834">
   <folder name="phone">
     <folder name="css">
       <file name="36m2.css" crc="4105039283" ref="phone>36m2"/>
@@ -12,11 +12,11 @@
       <file name="42m2.css" crc="315343347" ref="phone>42m2"/>
       <file name="nomq_42m2.css" crc="3824530138" ref="phone>42m2"/>
       <file name="25m2.css" crc="514488094" ref="phone>25m2"/>
-      <file name="index.css" crc="43807005" ref="phone>index"/>
+      <file name="index.css" crc="133128101" ref="phone>index"/>
       <file name="sin-t_tulo-8.css" crc="127540921" ref="phone>sin-título-8"/>
       <file name="nomq_galer_a.css" crc="3824530138" ref="phone>galería"/>
     </folder>
-    <file name="index.html" crc="3857703511" seo="true" mt="1597100216742" redirect="true"/>
+    <file name="index.html" crc="265515798" seo="true" mt="1597101324219" redirect="true"/>
     <file name="galería.html" crc="4280464429" seo="true" mt="1597100511853" redirect="true"/>
     <file name="contacto.html" crc="3915786156" seo="true" mt="1597099109270" redirect="true"/>
     <file name="planos-y-precios.html" crc="193854477" seo="true" mt="1597099109265" redirect="false"/>
@@ -105,6 +105,12 @@
     <file name="loading.gif" crc="3815509949" ref="index:galería:planos-y-precios:phone>index:phone>galería"/>
     <file name="lgo relieve.png" crc="4054961228" seo="true" ref="index:contacto:galería:planos-y-precios:phone>index:phone>galería:phone>contacto">
       <caption webpage="index" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
       <caption webpage="planos-y-precios" alt=""/>
       <caption webpage="planos-y-precios" alt=""/>
       <caption webpage="planos-y-precios" alt=""/>
@@ -117,12 +123,6 @@
       <caption webpage="contacto" alt=""/>
       <caption webpage="contacto" alt=""/>
       <caption webpage="contacto" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 105126 (1).jpg" crc="135299682" seo="true" ref="index">
       <caption webpage="index" alt=""/>
