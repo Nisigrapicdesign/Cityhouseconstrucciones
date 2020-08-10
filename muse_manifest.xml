@@ -1,13 +1,42 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597068964955">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597099582657">
+  <folder name="phone">
+    <folder name="css">
+      <file name="36m2.css" crc="4105039283" ref="phone>36m2"/>
+      <file name="36m2-2.css" crc="4119634688" ref="phone>36m2-2"/>
+      <file name="52m2.css" crc="4043037739" ref="phone>52m2"/>
+      <file name="contacto.css" crc="3971900367" ref="phone>contacto"/>
+      <file name="52m2-2.css" crc="375277129" ref="phone>52m2-2"/>
+      <file name="28m2.css" crc="341916613" ref="phone>28m2"/>
+      <file name="planos-y-precios.css" crc="279237556" ref="phone>planos-y-precios"/>
+      <file name="galer_a.css" crc="500199265" ref="phone>galería"/>
+      <file name="42m2.css" crc="315343347" ref="phone>42m2"/>
+      <file name="nomq_42m2.css" crc="3824530138" ref="phone>42m2"/>
+      <file name="25m2.css" crc="514488094" ref="phone>25m2"/>
+      <file name="index.css" crc="4269460717" ref="phone>index"/>
+      <file name="sin-t_tulo-8.css" crc="127540921" ref="phone>sin-título-8"/>
+    </folder>
+    <file name="index.html" crc="238441730" seo="true" mt="1597099109279" redirect="true"/>
+    <file name="galería.html" crc="266431918" seo="true" mt="1597099109276" redirect="true"/>
+    <file name="contacto.html" crc="3915786156" seo="true" mt="1597099109270" redirect="true"/>
+    <file name="planos-y-precios.html" crc="193854477" seo="true" mt="1597099109265" redirect="false"/>
+    <file name="25m2.html" crc="4211434573" seo="true" mt="1597099138733" redirect="true"/>
+    <file name="36m2.html" crc="389734591" seo="true" mt="1597099172548" redirect="true"/>
+    <file name="52m2.html" crc="4222437204" seo="true" mt="1597099199313" redirect="true"/>
+    <file name="sin-título-8.html" crc="3999993622" seo="true" mt="1597099234334" redirect="true"/>
+    <file name="28m2.html" crc="517897454" seo="true" mt="1597099279944" redirect="true"/>
+    <file name="36m2-2.html" crc="463964479" seo="true" mt="1597099311620" redirect="true"/>
+    <file name="52m2-2.html" crc="3951495334" seo="true" mt="1597099350010" redirect="true"/>
+    <file name="42m2.html" crc="3833302712" seo="true" mt="1597099390468" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4091947754"/>
-    <file name="index.css" crc="4087102711" ref="index"/>
+    <file name="index.css" crc="3928875313" ref="index"/>
     <file name="nomq_index.css" crc="505177142" ref="index"/>
-    <file name="contacto.css" crc="484211675" ref="contacto"/>
+    <file name="contacto.css" crc="202940552" ref="contacto"/>
     <file name="nomq_contacto.css" crc="189660966" ref="contacto"/>
-    <file name="galer_a.css" crc="4042552176" ref="galería"/>
+    <file name="galer_a.css" crc="4168348052" ref="galería"/>
     <file name="nomq_galer_a.css" crc="403150128" ref="galería"/>
-    <file name="planos-y-precios.css" crc="163065745" ref="planos-y-precios"/>
+    <file name="planos-y-precios.css" crc="137190458" ref="planos-y-precios"/>
     <file name="nomq_planos-y-precios.css" crc="4178882120" ref="planos-y-precios"/>
     <file name="52m2-2.css" crc="3954837052" ref="52m2-2"/>
     <file name="25m2.css" crc="5452347" ref="25m2"/>
@@ -24,19 +53,19 @@
     <file name="niv-de-terreno-viddd.mp4" crc="3815432406" seo="true" mt="1589484426000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2"/>
-    <file name="museutils.js" crc="3803043152" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2"/>
-    <file name="museconfig.js" crc="380897831" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2"/>
-    <file name="webpro.js" crc="242022427" ref="index:galería:planos-y-precios"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:galería:planos-y-precios"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:galería:planos-y-precios"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:galería:planos-y-precios"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:contacto:galería:planos-y-precios"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2:phone>index:phone>galería:phone>contacto:phone>planos-y-precios:phone>25m2:phone>36m2:phone>52m2:phone>sin-título-8:phone>28m2:phone>36m2-2:phone>52m2-2:phone>42m2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2:phone>index:phone>galería:phone>contacto:phone>planos-y-precios:phone>25m2:phone>36m2:phone>52m2:phone>sin-título-8:phone>28m2:phone>36m2-2:phone>52m2-2:phone>42m2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2:phone>index:phone>galería:phone>contacto:phone>planos-y-precios:phone>25m2:phone>36m2:phone>52m2:phone>sin-título-8:phone>28m2:phone>36m2-2:phone>52m2-2:phone>42m2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2:phone>index:phone>galería:phone>contacto:phone>planos-y-precios:phone>25m2:phone>36m2:phone>52m2:phone>sin-título-8:phone>28m2:phone>36m2-2:phone>52m2-2:phone>42m2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2:phone>index:phone>galería:phone>contacto:phone>planos-y-precios:phone>25m2:phone>36m2:phone>52m2:phone>sin-título-8:phone>28m2:phone>36m2-2:phone>52m2-2:phone>42m2"/>
+    <file name="webpro.js" crc="242022427" ref="index:galería:planos-y-precios:phone>index:phone>galería"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:galería:planos-y-precios:phone>index:phone>galería"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:galería:planos-y-precios:phone>index:phone>galería"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:galería:planos-y-precios:phone>index:phone>galería"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:contacto:galería:planos-y-precios:phone>index:phone>galería:phone>contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2:phone>index:phone>galería:phone>contacto:phone>planos-y-precios:phone>25m2:phone>36m2:phone>52m2:phone>sin-título-8:phone>28m2:phone>36m2-2:phone>52m2-2:phone>42m2"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:contacto:galería:planos-y-precios"/>
-    <file name="require.js" crc="4157109226" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2"/>
+    <file name="require.js" crc="4157109226" ref="index:contacto:galería:planos-y-precios:25m2:36m2:52m2:sin-título-8:28m2:36m2-2:52m2-2:42m2:phone>index:phone>galería:phone>contacto:phone>planos-y-precios:phone>25m2:phone>36m2:phone>52m2:phone>sin-título-8:phone>28m2:phone>36m2-2:phone>52m2-2:phone>42m2"/>
   </folder>
   <folder name="images">
     <file name="whatsapp image 2020-02-04 at 105125 (1).jpg" crc="231374295" seo="true" ref="index:galería">
@@ -47,7 +76,7 @@
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:contacto:galería:planos-y-precios"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contacto:galería:planos-y-precios:phone>index:phone>galería"/>
     <file name="whatsapp image 2020-02-04 at 105125.jpg" crc="4173293766" seo="true" ref="index:galería">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -56,7 +85,8 @@
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="arleft1.png" crc="1459088" ref="index:galería">
+    <file name="arleft1.png" crc="1459088" ref="index:galería:phone>index:phone>galería">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -64,26 +94,30 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-      <caption webpage="galería" alt=""/>
-    </file>
-    <file name="arright1.png" crc="269558854" ref="index:galería">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:galería:planos-y-precios"/>
-    <file name="lgo relieve.png" crc="4054961228" seo="true" ref="index:contacto:galería:planos-y-precios">
+    <file name="arright1.png" crc="269558854" ref="index:galería:phone>index:phone>galería">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:galería:planos-y-precios:phone>index:phone>galería"/>
+    <file name="lgo relieve.png" crc="4054961228" seo="true" ref="index:contacto:galería:planos-y-precios:phone>index:phone>galería:phone>contacto">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -100,6 +134,8 @@
       <caption webpage="contacto" alt=""/>
       <caption webpage="contacto" alt=""/>
       <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
@@ -439,7 +475,7 @@
     <file name="whatsapp image 2020-02-04 at 110250-crop-u12837.jpg" crc="215735550" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 110251 (1)-crop-u12890.jpg" crc="3898840487" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 110251 (1)-crop-u12890.jpg" crc="180045183" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110251 (2)-crop-u12943.jpg" crc="30209362" seo="true" ref="galería">
@@ -643,7 +679,7 @@
     <file name="whatsapp image 2020-02-04 at 110250-crop-u128372.jpg" crc="67904427" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 110251 (1)-crop-u128902.jpg" crc="352481070" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 110251 (1)-crop-u128902.jpg" crc="395766564" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110251 (2)-crop-u129432.jpg" crc="519926458" seo="true" ref="galería">
@@ -1087,7 +1123,7 @@
     <file name="whatsapp image 2020-02-04 at 110250-crop-u128374.jpg" crc="3992077205" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 110251 (1)-crop-u128904.jpg" crc="4003620813" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 110251 (1)-crop-u128904.jpg" crc="81721446" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110251 (2)-crop-u129434.jpg" crc="378618758" seo="true" ref="galería">
@@ -1213,7 +1249,7 @@
     <file name="whatsapp image 2020-02-04 at 110256 (2)-crop-u130645.jpg" crc="4068531254" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="favicon.ico" crc="3772088847" ref="index"/>
+    <file name="favicon.ico" crc="3820663743" ref="phone>index"/>
     <file name="anotación 2020-06-26 002823.jpg" crc="3975930167" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1645,13 +1681,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp-logo-icone-1.png" crc="86676941" seo="true" ref="index">
+    <file name="whatsapp-logo-icone-1.png" crc="86676941" seo="true" ref="index:phone>index:phone>galería">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="galería" alt=""/>
     </file>
     <file name="istockphoto-112ccbbb7075052-1024x1024.png" crc="4008694796" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1730,83 +1768,110 @@
     <file name="precentacion 375x530.jpg" crc="4277321771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 105125 (1)345x71.jpg" crc="4284410337" seo="true" ref="index">
+    <file name="whatsapp image 2020-02-04 at 105125 (1)345x71.jpg" crc="4284410337" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 105125338x70.jpg" crc="518891188" seo="true" ref="index">
+    <file name="whatsapp image 2020-02-04 at 105125338x70.jpg" crc="518891188" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 105126 (1)340x130.jpg" crc="4054447158" seo="true" ref="index">
+    <file name="whatsapp image 2020-02-04 at 105126 (1)340x130.jpg" crc="4054447158" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="anotación 2020-06-26 002823306x149.jpg" crc="3771225786" seo="true" ref="index">
+    <file name="anotación 2020-06-26 002823306x149.jpg" crc="3771225786" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="anotación 2020-06-26 002726304x143.jpg" crc="4101381113" seo="true" ref="index">
+    <file name="anotación 2020-06-26 002726304x143.jpg" crc="4101381113" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img-20191114-wa0002312x175.jpg" crc="4115991598" seo="true" ref="index">
+    <file name="img-20191114-wa0002312x175.jpg" crc="4115991598" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-07-19 at 110502 pm309x176.jpg" crc="3799327774" seo="true" ref="index">
+    <file name="whatsapp image 2020-07-19 at 110502 pm309x176.jpg" crc="3799327774" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="foto 4309x232.jpg" crc="291284113" seo="true" ref="index">
+    <file name="foto 4309x232.jpg" crc="291284113" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-07-19 at 112615 pm304x202.jpg" crc="3847903950" seo="true" ref="index">
+    <file name="whatsapp image 2020-07-19 at 112615 pm304x202.jpg" crc="3847903950" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-07-19 at 112615 pm (1)312x193.jpg" crc="3759170274" seo="true" ref="index">
+    <file name="whatsapp image 2020-07-19 at 112615 pm (1)312x193.jpg" crc="3759170274" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-07-19 at 112616 pm314x221.jpg" crc="3788872764" seo="true" ref="index">
+    <file name="whatsapp image 2020-07-19 at 112616 pm314x221.jpg" crc="3788872764" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-07-19 at 113400 pm309x232.jpg" crc="4264908135" seo="true" ref="index">
+    <file name="whatsapp image 2020-07-19 at 113400 pm309x232.jpg" crc="4264908135" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 105126290x220.jpg" crc="3874214436" seo="true" ref="index">
+    <file name="whatsapp image 2020-02-04 at 105126290x220.jpg" crc="3874214436" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-07-19 at 112614 pm308x186.jpg" crc="3771566436" seo="true" ref="index">
+    <file name="whatsapp image 2020-07-19 at 112614 pm308x186.jpg" crc="3771566436" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u23223-46.png" crc="4062426071" ref="index"/>
-    <file name="precentacion 254x358.jpg" crc="3822455889" seo="true" ref="index">
+    <file name="precentacion 254x358.jpg" crc="3822455889" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-06-24 at 120733 am.jpg" crc="238848005" seo="true" ref="25m2">
+    <file name="whatsapp image 2020-06-24 at 120733 am.jpg" crc="238848005" seo="true" ref="25m2:phone>25m2">
+      <caption webpage="25m2" alt=""/>
       <caption webpage="25m2" alt=""/>
     </file>
-    <file name="whatsapp image 2020-06-24 at 120734 am (1).jpg" crc="3817198146" seo="true" ref="36m2:36m2-2">
-      <caption webpage="36m2" alt=""/>
+    <file name="whatsapp image 2020-06-24 at 120734 am (1).jpg" crc="3817198146" seo="true" ref="36m2:36m2-2:phone>36m2:phone>36m2-2">
       <caption webpage="36m2-2" alt=""/>
+      <caption webpage="36m2-2" alt=""/>
+      <caption webpage="36m2" alt=""/>
+      <caption webpage="36m2" alt=""/>
     </file>
-    <file name="whatsapp image 2020-06-24 at 120735 am (1).jpg" crc="3903820030" seo="true" ref="52m2:52m2-2">
+    <file name="whatsapp image 2020-06-24 at 120735 am (1).jpg" crc="3903820030" seo="true" ref="52m2:52m2-2:phone>52m2:phone>52m2-2">
+      <caption webpage="52m2" alt=""/>
       <caption webpage="52m2" alt=""/>
       <caption webpage="52m2-2" alt=""/>
+      <caption webpage="52m2-2" alt=""/>
     </file>
-    <file name="whatsapp image 2020-06-24 at 120737 am (1).jpg" crc="4173118715" seo="true" ref="sin-título-8">
+    <file name="whatsapp image 2020-06-24 at 120737 am (1).jpg" crc="4173118715" seo="true" ref="sin-título-8:phone>sin-título-8">
+      <caption webpage="sin-título-8" alt=""/>
       <caption webpage="sin-título-8" alt=""/>
     </file>
     <file name="whatsapp image 2020-06-24 at 120737 am.jpg" crc="4249781031" seo="true" ref="28m2">
       <caption webpage="28m2" alt=""/>
     </file>
-    <file name="whatsapp image 2020-06-24 at 120735 am.jpg" crc="206652722" seo="true" ref="42m2">
+    <file name="whatsapp image 2020-06-24 at 120735 am.jpg" crc="206652722" seo="true" ref="42m2:phone>42m2">
+      <caption webpage="42m2" alt=""/>
       <caption webpage="42m2" alt=""/>
     </file>
+    <file name="u29070-4.png" crc="4062426071" ref="phone>index"/>
+    <file name="u30662-4.png" crc="4062426071" ref="phone>galería"/>
+    <file name="whatsapp image 2020-06-24 at 120737 am342x343.jpg" crc="139400722" seo="true" ref="phone>28m2">
+      <caption webpage="28m2" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3992493572" seo="true" mt="1597068913040" redirect="true"/>
-  <file name="contacto.html" crc="3799882301" seo="true" mt="1597064113693" redirect="true"/>
-  <file name="galería.html" crc="4153555192" seo="true" mt="1596988100215" redirect="true"/>
-  <file name="planos-y-precios.html" crc="3820750415" seo="true" mt="1596988100037" redirect="true"/>
-  <file name="25m2.html" crc="3926734929" seo="true" mt="1596988058748" redirect="true"/>
-  <file name="36m2.html" crc="3857439463" seo="true" mt="1596988069663" redirect="true"/>
-  <file name="52m2.html" crc="197173264" seo="true" mt="1596988075130" redirect="true"/>
-  <file name="sin-título-8.html" crc="4028142245" seo="true" mt="1596988080606" redirect="true"/>
-  <file name="28m2.html" crc="4280812046" seo="true" mt="1596988089493" redirect="true"/>
-  <file name="36m2-2.html" crc="3847380259" seo="true" mt="1596988094148" redirect="true"/>
-  <file name="52m2-2.html" crc="123854717" seo="true" mt="1596988097529" redirect="true"/>
-  <file name="42m2.html" crc="433474639" seo="true" mt="1596988100335" redirect="true"/>
+  <file name="index.html" crc="3943766936" seo="true" mt="1597099109278" redirect="true"/>
+  <file name="contacto.html" crc="297076268" seo="true" mt="1597099109267" redirect="true"/>
+  <file name="galería.html" crc="4257568549" seo="true" mt="1597099109274" redirect="true"/>
+  <file name="planos-y-precios.html" crc="4076595154" seo="true" mt="1597099109263" redirect="true"/>
+  <file name="25m2.html" crc="394247664" seo="true" mt="1597099109258" redirect="true"/>
+  <file name="36m2.html" crc="124762906" seo="true" mt="1597099109254" redirect="true"/>
+  <file name="52m2.html" crc="91966881" seo="true" mt="1597099109251" redirect="true"/>
+  <file name="sin-título-8.html" crc="3835707527" seo="true" mt="1597099109247" redirect="true"/>
+  <file name="28m2.html" crc="482157798" seo="true" mt="1597099109242" redirect="true"/>
+  <file name="36m2-2.html" crc="4069499287" seo="true" mt="1597099109238" redirect="true"/>
+  <file name="52m2-2.html" crc="4068030780" seo="true" mt="1597099109234" redirect="true"/>
+  <file name="42m2.html" crc="157833679" seo="true" mt="1597099109229" redirect="true"/>
 </manifest>
