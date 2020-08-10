@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597099582657">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597100647204">
   <folder name="phone">
     <folder name="css">
       <file name="36m2.css" crc="4105039283" ref="phone>36m2"/>
@@ -8,15 +8,16 @@
       <file name="52m2-2.css" crc="375277129" ref="phone>52m2-2"/>
       <file name="28m2.css" crc="341916613" ref="phone>28m2"/>
       <file name="planos-y-precios.css" crc="279237556" ref="phone>planos-y-precios"/>
-      <file name="galer_a.css" crc="500199265" ref="phone>galería"/>
+      <file name="galer_a.css" crc="269432246" ref="phone>galería"/>
       <file name="42m2.css" crc="315343347" ref="phone>42m2"/>
       <file name="nomq_42m2.css" crc="3824530138" ref="phone>42m2"/>
       <file name="25m2.css" crc="514488094" ref="phone>25m2"/>
-      <file name="index.css" crc="4269460717" ref="phone>index"/>
+      <file name="index.css" crc="43807005" ref="phone>index"/>
       <file name="sin-t_tulo-8.css" crc="127540921" ref="phone>sin-título-8"/>
+      <file name="nomq_galer_a.css" crc="3824530138" ref="phone>galería"/>
     </folder>
-    <file name="index.html" crc="238441730" seo="true" mt="1597099109279" redirect="true"/>
-    <file name="galería.html" crc="266431918" seo="true" mt="1597099109276" redirect="true"/>
+    <file name="index.html" crc="3857703511" seo="true" mt="1597100216742" redirect="true"/>
+    <file name="galería.html" crc="4280464429" seo="true" mt="1597100511853" redirect="true"/>
     <file name="contacto.html" crc="3915786156" seo="true" mt="1597099109270" redirect="true"/>
     <file name="planos-y-precios.html" crc="193854477" seo="true" mt="1597099109265" redirect="false"/>
     <file name="25m2.html" crc="4211434573" seo="true" mt="1597099138733" redirect="true"/>
@@ -85,30 +86,16 @@
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="arleft1.png" crc="1459088" ref="index:galería:phone>index:phone>galería">
+    <file name="arleft1.png" crc="1459088" ref="index:galería:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="arright1.png" crc="269558854" ref="index:galería:phone>index:phone>galería">
+    <file name="arright1.png" crc="269558854" ref="index:galería:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
@@ -118,17 +105,12 @@
     <file name="loading.gif" crc="3815509949" ref="index:galería:planos-y-precios:phone>index:phone>galería"/>
     <file name="lgo relieve.png" crc="4054961228" seo="true" ref="index:contacto:galería:planos-y-precios:phone>index:phone>galería:phone>contacto">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="planos-y-precios" alt=""/>
+      <caption webpage="planos-y-precios" alt=""/>
+      <caption webpage="planos-y-precios" alt=""/>
+      <caption webpage="planos-y-precios" alt=""/>
+      <caption webpage="planos-y-precios" alt=""/>
+      <caption webpage="planos-y-precios" alt=""/>
       <caption webpage="contacto" alt=""/>
       <caption webpage="contacto" alt=""/>
       <caption webpage="contacto" alt=""/>
@@ -141,12 +123,6 @@
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
-      <caption webpage="planos-y-precios" alt=""/>
-      <caption webpage="planos-y-precios" alt=""/>
-      <caption webpage="planos-y-precios" alt=""/>
-      <caption webpage="planos-y-precios" alt=""/>
-      <caption webpage="planos-y-precios" alt=""/>
-      <caption webpage="planos-y-precios" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 105126 (1).jpg" crc="135299682" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1138,16 +1114,19 @@
     <file name="whatsapp image 2020-02-04 at 110256 (3)-crop-u131024.jpg" crc="4166036770" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 11025633x25.jpg" crc="53415158" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 11025633x25.jpg" crc="53415158" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 110300 (1)33x25.jpg" crc="4005239145" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 110300 (1)33x25.jpg" crc="4005239145" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110248-crop-u124815.jpg" crc="4175072811" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 110256 (3)33x25.jpg" crc="4033069665" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 110256 (3)33x25.jpg" crc="4033069665" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110257 (1)-crop-u112625.jpg" crc="501028637" seo="true" ref="galería">
@@ -1171,7 +1150,8 @@
     <file name="whatsapp image 2020-02-04 at 110257 (3)-crop-u113685.jpg" crc="476684412" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 11030033x25.jpg" crc="331091142" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 11030033x25.jpg" crc="331091142" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110249 (3)-crop-u126404.jpg" crc="170374321" seo="true" ref="galería">
@@ -1189,7 +1169,8 @@
     <file name="whatsapp image 2020-02-04 at 110258 (1)-crop-u114745.jpg" crc="4196959867" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 11030133x25.jpg" crc="3948079198" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 11030133x25.jpg" crc="3948079198" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110250 (2)-crop-u127464.jpg" crc="3968721868" seo="true" ref="galería">
@@ -1204,7 +1185,8 @@
     <file name="whatsapp image 2020-02-04 at 110250 (3)-crop-u127995.jpg" crc="434272987" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 110258 (3)33x25.jpg" crc="59293824" seo="true" ref="galería">
+    <file name="whatsapp image 2020-02-04 at 110258 (3)33x25.jpg" crc="59293824" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 110247 (1)-crop-u122165.jpg" crc="4106197733" seo="true" ref="galería">
@@ -1681,13 +1663,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp-logo-icone-1.png" crc="86676941" seo="true" ref="index:phone>index:phone>galería">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="whatsapp-logo-icone-1.png" crc="86676941" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="galería" alt=""/>
     </file>
@@ -1768,65 +1744,44 @@
     <file name="precentacion 375x530.jpg" crc="4277321771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2020-02-04 at 105125 (1)345x71.jpg" crc="4284410337" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="whatsapp image 2020-02-04 at 105125338x70.jpg" crc="518891188" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="whatsapp image 2020-02-04 at 105126 (1)340x130.jpg" crc="4054447158" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="anotación 2020-06-26 002823306x149.jpg" crc="3771225786" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="anotación 2020-06-26 002726304x143.jpg" crc="4101381113" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img-20191114-wa0002312x175.jpg" crc="4115991598" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-07-19 at 110502 pm309x176.jpg" crc="3799327774" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="foto 4309x232.jpg" crc="291284113" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-07-19 at 112615 pm304x202.jpg" crc="3847903950" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-07-19 at 112615 pm (1)312x193.jpg" crc="3759170274" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-07-19 at 112616 pm314x221.jpg" crc="3788872764" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-07-19 at 113400 pm309x232.jpg" crc="4264908135" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-02-04 at 105126290x220.jpg" crc="3874214436" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-07-19 at 112614 pm308x186.jpg" crc="3771566436" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="u23223-46.png" crc="4062426071" ref="index"/>
     <file name="precentacion 254x358.jpg" crc="3822455889" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="whatsapp image 2020-06-24 at 120733 am.jpg" crc="238848005" seo="true" ref="25m2:phone>25m2">
@@ -1857,14 +1812,223 @@
       <caption webpage="42m2" alt=""/>
     </file>
     <file name="u29070-4.png" crc="4062426071" ref="phone>index"/>
-    <file name="u30662-4.png" crc="4062426071" ref="phone>galería"/>
     <file name="whatsapp image 2020-06-24 at 120737 am342x343.jpg" crc="139400722" seo="true" ref="phone>28m2">
       <caption webpage="28m2" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 105125 (1)384x79.jpg" crc="3948638824" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 105125389x80.jpg" crc="4132711263" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110256415x311.jpg" crc="407210669" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257 (1)427x241.jpg" crc="310664121" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257 (2)427x241.jpg" crc="1958599" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257 (3)427x241.jpg" crc="3891979027" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257-crop-u32763.jpg" crc="3858095235" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110258 (1)427x241.jpg" crc="4285277781" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110258 (2)217x386.jpg" crc="4246712162" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110258 (3)415x311.jpg" crc="4241709760" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110258427x241.jpg" crc="522789531" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110259 (1)427x257.jpg" crc="4066534186" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110259 (2)-crop-u32775.jpg" crc="276648986" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110259427x257.jpg" crc="3953397397" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110300 (1)415x311.jpg" crc="4211363164" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110300 (2)-crop-u32767.jpg" crc="3984204157" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110300 (3)-crop-u32769.jpg" crc="3830882830" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110300415x311.jpg" crc="360507624" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110301 (1)463x260.jpg" crc="471865332" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110301415x311.jpg" crc="467145205" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 11025d1429x311.jpg" crc="3993343537" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110247 (1)-crop-u32825.jpg" crc="4075005257" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110247430x311.jpg" crc="3771173795" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248 (1)-crop-u32827.jpg" crc="280588508" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248 (2)-crop-u32789.jpg" crc="4189592507" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248 (3)428x311.jpg" crc="4023696236" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248-crop-u32809.jpg" crc="390669006" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110249 (1)439x311.jpg" crc="322705429" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110249 (2)-crop-u32765.jpg" crc="143383778" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110249 (3)456x311.jpg" crc="451921328" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110250 (1)439x311.jpg" crc="322705429" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110250 (2)432x293.jpg" crc="506361154" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110250 (3)-crop-u32783.jpg" crc="3934370342" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110250433x311.jpg" crc="4036285407" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110251 (1)443x311.jpg" crc="3953637655" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110251 (2)445x311.jpg" crc="156444506" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110251-crop-u32773.jpg" crc="200832940" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110256 (2)-crop-u32801.jpg" crc="4047268311" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110256 (3)415x311.jpg" crc="400911687" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257 (1)-crop-u32720.jpg" crc="501028637" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257 (2)-crop-u32722.jpg" crc="3866499142" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257 (3)-crop-u32688.jpg" crc="476684412" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110257-crop-u32708.jpg" crc="3910486829" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110258 (1)-crop-u32746.jpg" crc="4196959867" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110258 (2)-crop-u32724.jpg" crc="57937672" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110258-crop-u32716.jpg" crc="4057423233" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110259 (1)41x25.jpg" crc="246903945" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110259 (2)-crop-u32714.jpg" crc="4009913927" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 11025941x25.jpg" crc="4046322214" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110300 (2)-crop-u32686.jpg" crc="324509169" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110300 (3)-crop-u32694.jpg" crc="48183803" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110301 (1)-crop-u32704.jpg" crc="4284950215" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 11025d134x25.jpg" crc="471507871" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110247 (1)-crop-u32692.jpg" crc="4106197733" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 11024734x25.jpg" crc="83267912" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248 (1)-crop-u32744.jpg" crc="4149686245" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248 (2)-crop-u32750.jpg" crc="327772136" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248 (3)34x25.jpg" crc="4153485964" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110248-crop-u32726.jpg" crc="4175072811" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110249 (1)35x25.jpg" crc="4083789706" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110249 (2)-crop-u32748.jpg" crc="410220766" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110249 (3)37x25.jpg" crc="3983914894" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110250 (1)35x25.jpg" crc="4083789706" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110250 (2)37x25.jpg" crc="510120569" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110250 (3)-crop-u32738.jpg" crc="434272987" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 11025035x25.jpg" crc="281858197" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110251 (1)35x25.jpg" crc="228830288" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110251 (2)36x25.jpg" crc="4286445527" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110251-crop-u32718.jpg" crc="38638453" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-02-04 at 110256 (2)-crop-u32752.jpg" crc="4068531254" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="3943766936" seo="true" mt="1597099109278" redirect="true"/>
   <file name="contacto.html" crc="297076268" seo="true" mt="1597099109267" redirect="true"/>
-  <file name="galería.html" crc="4257568549" seo="true" mt="1597099109274" redirect="true"/>
+  <file name="galería.html" crc="4257568549" seo="true" mt="1597100350566" redirect="true"/>
   <file name="planos-y-precios.html" crc="4076595154" seo="true" mt="1597099109263" redirect="true"/>
   <file name="25m2.html" crc="394247664" seo="true" mt="1597099109258" redirect="true"/>
   <file name="36m2.html" crc="124762906" seo="true" mt="1597099109254" redirect="true"/>
