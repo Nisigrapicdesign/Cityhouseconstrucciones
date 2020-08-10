@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597064997688">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1597068964955">
   <folder name="css">
     <file name="site_global.css" crc="4091947754"/>
-    <file name="index.css" crc="14994645" ref="index"/>
-    <file name="nomq_index.css" crc="102014821" ref="index"/>
+    <file name="index.css" crc="4087102711" ref="index"/>
+    <file name="nomq_index.css" crc="505177142" ref="index"/>
     <file name="contacto.css" crc="484211675" ref="contacto"/>
     <file name="nomq_contacto.css" crc="189660966" ref="contacto"/>
     <file name="galer_a.css" crc="4042552176" ref="galería"/>
@@ -1797,7 +1797,7 @@
       <caption webpage="42m2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4103740363" seo="true" mt="1597064968176" redirect="true"/>
+  <file name="index.html" crc="3992493572" seo="true" mt="1597068913040" redirect="true"/>
   <file name="contacto.html" crc="3799882301" seo="true" mt="1597064113693" redirect="true"/>
   <file name="galería.html" crc="4153555192" seo="true" mt="1596988100215" redirect="true"/>
   <file name="planos-y-precios.html" crc="3820750415" seo="true" mt="1596988100037" redirect="true"/>
